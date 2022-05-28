@@ -31,7 +31,7 @@ df <- subset(df, df$retweeted_status_lang == "en")
 
 #Top 30~ misinformation hashtags
 hashtags <- c("Scamdemic", "Plandemic", "Scaredemic", "NoCovidVaccine", "FilmYourHospital", "5GCoronavirus",
-              "FireFauci", "ExposeBilGates", "hoaxvirus", "covid19hoax", "coronahoax", "dontwearamask", "id2020",
+              "FireFauci", "hoaxvirus", "covid19hoax", "coronahoax", "dontwearamask", "id2020",
               "covid1984", "maskoff", "Arrestbillgates", "Barbaramdev", "Chinesebioterrorism", "Coronail", "Cv1984",
               "Drfraudfauci", "Emptyhospitals", "Endcovidscamnow", "Exposebillgates", "Faucifraud", "Faucithefraud", 
               "Filmyourhospital", "Firefauci", "Hcqworks", "Hydroxycholorquineworks", "id2020", "Limengyan",
