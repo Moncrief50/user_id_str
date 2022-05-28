@@ -36,6 +36,6 @@ Drfraudfauci|Emptyhospitals|Endcovidscamnow|Exposebillgates|Faucifraud|Faucithef
 user_id_str_March <- data.frame(test$user_id_str)
 user_id_str_March
 
-write.csv(df, "/work_bgfs/r/rmoncrief/March_Analysis/df_March.csv")
+write.csv(test, "/work_bgfs/r/rmoncrief/March_Analysis/df_March.csv")
 write.csv(user_id_str_March, "/work_bgfs/r/rmoncrief/March_Analysis/user_id_str_March.csv")
 
